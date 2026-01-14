@@ -1,0 +1,16 @@
+a.navbar-brand img {
+    max-width: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+  
+}
+
+a.navbar-brand {  width: 30%;
+    color: var(--cw);
+    font-size: 1.5rem;
+}
+
+a.navbar-brand:hover {
+    color: #532092;
+    
+}
