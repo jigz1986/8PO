@@ -83,3 +83,15 @@ display: inline-flex;
   width: 100%;
   justify-content: space-evenly;  
 }
+
+
+/* Nav Bar & Header CSS ends here.
+
+
+
+Hero Sections start */
+
+.hero {
+  height: 600px;
+  background-color: #9255D7;
+}
