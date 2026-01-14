@@ -1,4 +1,8 @@
-:root {
+ @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+ 
+ 
+ 
+ :root {
     --pp: #532092;
     --pd: #371069;
     --pl: #9255D7;
@@ -18,7 +22,7 @@
 }
 
 html {
-  @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+ 
   font-family: "Exo 2", sans-serif;
   box-sizing: border-box;
   letter-spacing: 1px;
